@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### 參考文章
+[7天學會reactjs-day4-使用reactstrap製作購物車畫面](https://medium.com/reactmaker/7%E5%A4%A9%E5%AD%B8%E6%9C%83reactjs-day4-%E4%BD%BF%E7%94%A8reactstrap%E8%A3%BD%E4%BD%9C%E8%B3%BC%E7%89%A9%E8%BB%8A%E7%95%AB%E9%9D%A2-ba38634e2ba1)
+
+[React - DOM界的彼方](https://ithelp.ithome.com.tw/users/20103131/ironman/1012)
+
+[React利用路由實現登入介面的跳轉](https://www.itread01.com/content/1545871406.html)
