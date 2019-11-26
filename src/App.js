@@ -11,8 +11,8 @@ function App() {
     <div className="App">
        {/* <Button color="danger">danger</Button> */}
       <Router >
-        <Route path="/home" component={Home}></Route>
-        <Route path="/bootstrap/BHome" component={BHome}></Route>
+        <Route path="/home" component={Home}/>
+        <Route path="/bootstrap/BHome" component={BHome}/>
 
         <Link to="/home">
           <div>click to home</div>
